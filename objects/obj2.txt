@@ -1,3 +1,0 @@
-name: object2
-type: sample
-description: "Another sample object. Add more as needed."
