@@ -1,0 +1,3 @@
+name: object1
+type: sample
+description: "This is a sample object file. Replace with your data or files."
