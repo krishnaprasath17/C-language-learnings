@@ -2,6 +2,22 @@
 *.exe
 *.out
 *.o
+
+# Build folders
+/bin/
+/build/
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+# Compiled binaries
+*.exe
+*.out
+*.o
 *.obj
 
 # Build directories
