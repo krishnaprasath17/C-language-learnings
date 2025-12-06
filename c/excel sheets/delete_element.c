@@ -3,7 +3,7 @@ int main(){
     int n,pos;
     scanf("%d",&n);
 
-    int a[n];
+    int a[1000];
     for(int i = 0;i<n;i++){
         scanf("%d",&a[i]);
     }
@@ -14,7 +14,7 @@ int main(){
     }
     n--;
     for(int i = 0;i < n;i++){
-        printf("%d",a[i]);
+        printf("%d ",a[i]);
     }
 
 }
