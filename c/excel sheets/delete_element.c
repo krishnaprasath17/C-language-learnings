@@ -9,7 +9,7 @@ int main(){
     }
 
     scanf("%d",&pos);
-    for(int i = pos -1;i<n-1;i++){
+    for(int i = pos -1;i<n;i++){
         a[i] = a[i+1];
     }
     n--;
