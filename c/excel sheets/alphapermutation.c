@@ -7,7 +7,7 @@ int count_a(char s[]){
             count ++;
         }
     }
-    return 2 << count;
+    return 1 << count;
 }
 int main(){
     char s[1000];
